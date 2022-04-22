@@ -18,3 +18,4 @@ render(<App />, document.getElementById('app'));
 //Comentario de commit 9
 //Comentario de commit 10
 //Bug 1
+//Bug 2
