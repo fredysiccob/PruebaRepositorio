@@ -14,3 +14,5 @@ export default App;
 //Fix 5
 //Fix 6
 //Fix 7
+//Fix 8
+//Fix 9
