@@ -9,3 +9,4 @@ import './css/styles.css';
 render(<App />, document.getElementById('app'));
 
 //Fix 1
+//Fix 2
